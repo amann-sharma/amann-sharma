@@ -24,7 +24,7 @@
 ## 📂 Projects
 
 - [Notes App](https://github.com/amann-sharma/notify-app) — A full-stack notes app with JWT auth, search, and CRUD operations
-- [Voice Translator](https://github.com/amann-sharma/realtime-voice-translator) — Real-time speech translation web app
+- [Voice Translator](https://github.com/amann-sharma/realtime-speech-translation) — Real-time speech translation web app
 - [Sudoku Solver](https://github.com/amann-sharma/sudoku-solver) — Python GUI-based Sudoku solver
 
 ---
