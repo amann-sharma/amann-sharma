@@ -6,7 +6,7 @@
 
 ## 🔭 About Me
 
-- 🎓 3rd-year Computer Science Engineering student at SOA University
+- 🎓 4th-year Computer Science Engineering student at SOA University
 - 💻 Full-stack developer passionate about React, Node.js, and backend development
 - 🤖 Exploring AI/ML and cloud technologies
 - 🚗 Automobile enthusiast who loves tech and problem-solving
